@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)

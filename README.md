@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)

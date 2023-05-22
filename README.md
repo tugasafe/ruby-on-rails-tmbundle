@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Updated SQL Query Plot Code (#8120)

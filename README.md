@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)

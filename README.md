@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Link checks SSL insecure robustness (#7853)

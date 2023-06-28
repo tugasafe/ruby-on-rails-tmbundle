@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

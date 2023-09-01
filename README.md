@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Explorer with LanceDB, Actions and Docs updates (#7487)

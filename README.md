@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Allow Annotator PIL.Image inputs (#8397)

@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add yolo_bbox2segment docs reference (#7751)

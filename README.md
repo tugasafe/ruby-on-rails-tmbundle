@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add Amazon Sagemaker Docs integrations page (#7293)

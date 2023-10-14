@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add docs guide terminal images (#8819)

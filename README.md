@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

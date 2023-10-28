@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add docs guide terminal images (#8819)

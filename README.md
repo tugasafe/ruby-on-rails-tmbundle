@@ -1,1 +1,1 @@
-fix predict with class filter
+Update fraction arg to employ a random selection (#8234)

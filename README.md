@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add horizontal Mosaic3 augmentation (#6898)

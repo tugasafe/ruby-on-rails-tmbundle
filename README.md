@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)

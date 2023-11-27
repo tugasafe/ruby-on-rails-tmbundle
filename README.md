@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)

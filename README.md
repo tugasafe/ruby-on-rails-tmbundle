@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Fix undefined ‘im_array’ bug in predict.md (#8565)

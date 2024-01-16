@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs

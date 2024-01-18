@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)

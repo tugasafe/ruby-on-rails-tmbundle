@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Elaborate Train and Predict mode docs arguments (#8137)

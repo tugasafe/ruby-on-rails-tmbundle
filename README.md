@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)

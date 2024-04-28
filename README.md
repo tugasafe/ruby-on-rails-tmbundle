@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add HUB-SDK docs (#7775)

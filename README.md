@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add Neural Magic Docs integrations page (#7234)

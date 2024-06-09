@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)

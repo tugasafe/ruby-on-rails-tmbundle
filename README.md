@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add KaTeX support + updates to YOLOv9 model page (#8531)

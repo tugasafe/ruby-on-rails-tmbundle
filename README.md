@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+fix yolo classify model loading error (#9196)

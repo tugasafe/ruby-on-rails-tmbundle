@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+New HUB Cloud Training docs page (#8174)

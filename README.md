@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Explorer with LanceDB, Actions and Docs updates (#7487)

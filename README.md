@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Move Explorer tests to scheduled CI (#8305)

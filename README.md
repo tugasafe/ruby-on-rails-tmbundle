@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add Weights & Biases Docs integrations page (#7199)
